@@ -1,3 +1,3 @@
 # GLD_price
 Graph of GLD pricing
-![promisechains](https://dl.dropboxusercontent.com/home/W209-4%20Visualization%20and%20Communication/Homework%20%233?preview=Price+of+GLD.png)
+![promisechains](https://dl.dropboxusercontent.com/s/33idrw5oqbhsd5a/Price%20of%20GLD.png?dl=0)
